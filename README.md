@@ -1,2 +1,3 @@
-# proyecto-control-versiones
-Repositorio de práctica para control de versiones y trabajo colaborativo
+# Proyecto Control de Versiones
+
+Este proyecto tiene como objetivo establecer buenas prácticas en el manejo del control de versiones, incluyendo estrategias de trabajo colaborativo, nomenclatura de ramas, acceso por roles, y políticas de combinación y pull requests.
